@@ -30,7 +30,7 @@ public class Assignment2 {
 
 class Student implements IAccount{
 	private static int _id = 1000;
-	private String _userID;
+	private String _userID; 
 	private String _name;
 	private String _ssn;
 	private String _email;
